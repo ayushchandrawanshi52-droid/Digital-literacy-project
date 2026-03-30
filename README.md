@@ -1,42 +1,115 @@
- Digital Literacy Project
- Student Details
-Name: Ayush Chandrawanshi
-Course: B.Tech / Integrated M.Tech
-Subject: Digital Literacy (CSE0001)
-Institution: VIT Bhopal University
- Project Overview
+Digital Literacy Project
+Name: ayush chandrawanshi Reg No: 25MIM10009 Branch: int.mtech Year: 1st Year
 
-This project focuses on developing essential digital literacy skills such as understanding digital tools, online safety, communication, and collaboration platforms. It includes multiple tasks that demonstrate practical knowledge and awareness of digital technologies.
+Project Overview
+This project is created as part of the Digital Literacy course. It includes tasks like infographic creation, digital portfolio setup, coding practice, email etiquette, and cybercrime awareness.
 
- Tasks Completed
- Task 1: Digital Literacy Awareness Infographic
-Created an infographic explaining the importance of digital literacy
-Included topics like online safety, digital skills, and responsible usage
-Tool used: Canva / PowerPoint
- Task 2: Student Digital Portfolio
-Developed a personal portfolio website
-Sections included:
-About Me
-Skills
-Projects
-Contact Information
-Platform used: (GitHub Pages / Google Sites / Wix)
- Task 3: Coding & Collaboration Platforms
- Coding Platform:
-Created account on (HackerRank / CodeChef / LeetCode)
-Solved basic programming problems
-Learned problem-solving skills
-🤝 Collaboration Platform:
-Created a Google Form survey on Digital Awareness
-Collected responses and analyzed data
-🔹 Task 4: Professional Email & Budget
-Drafted a professional email for internship application
-Created a basic budget plan including digital expenses
-🔹 Task 5: Cyber Awareness Case Study
-Studied phishing attack as a cyber threat
-Explained causes, impact, and prevention methods
-🧠 Learning Outcomes
-Improved understanding of digital tools and platforms
-Learned importance of cybersecurity and safe internet practices
-Gained experience in creating digital content and communication
-Enhanced problem-solving and technical skills# Digital-literacy-project
+Tasks Completed
+Task 1: Infographic
+Created using Canva on digital literacy awareness.
+
+Task 2: Digital Portfolio
+Created profiles on GitHub, LinkedIn, and HackerRank.
+
+Task 3: Platforms
+Solved coding problem on HackerRank and created a Google Form.
+
+Task 4: Email Etiquette
+Wrote professional emails and created social media checklist.
+
+Task 5: Cybercrime
+Prepared case study and prevention checklist.
+
+🔗 Google Form Link
+Digital Literacy Project
+Name: Yashwant yadav Reg No: 25MIM10013 Branch: int.mtech Year: 1st Year
+
+Project Overview
+This project is created as part of the Digital Literacy course. It includes tasks like infographic creation, digital portfolio setup, coding practice, email etiquette, and cybercrime awareness.
+
+Tasks Completed
+Task 1: Infographic
+Created using Canva on digital literacy awareness.
+
+Task 2: Digital Portfolio
+Created profiles on GitHub, LinkedIn, and HackerRank.
+
+Task 3: Platforms
+Solved coding problem on HackerRank and created a Google Form.
+
+Task 4: Email Etiquette
+Wrote professional emails and created social media checklist.
+
+Task 5: Cybercrime
+Prepared case study and prevention checklist.
+
+🔗 Google Form Link
+https://docs.google.com/forms/d/e/1FAIpQLSd-K_atlvJGvNjh2-5YfhaVlHevoJGCS9NE5i-wwGUpgoM0EA/viewform?usp=preview
+
+Repository Structure
+task-1-presentation
+task-2-portfolio
+task-3-platforms
+task-4-email-etiquette
+task-5-cybercrime
+report
+Digital_literacy_project
+Digital_literacy_project
+
+About
+Digital_literacy_project
+
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+1
+@yashwant25mim10013-collab
+yashwant25mim10013-collab
+Footer
+© 202
+
+Repository Structure
+task-1-presentation
+task-2-portfolio
+task-3-platforms
+task-4-email-etiquette
+task-5-cybercrime
+report
+Digital_literacy_project
+Digital_literacy_project
+
+About
+Digital_literacy_project
+
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+1
+ayush25mim10009@vitbhopal
+ayush25mim10009-collab
+Footer
+© 202
